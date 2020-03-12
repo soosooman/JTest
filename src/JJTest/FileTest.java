@@ -20,7 +20,7 @@ public class FileTest {
 	}
 	@Test  // 하나의 테스트 규칙
 	public void ttt() {
-		
+		//assertNull
 		// assertEquals(a,b);
 		assertNull(c);
 		// assertNotNull(c);
