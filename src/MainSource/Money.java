@@ -7,6 +7,8 @@ public class Money {
 	public Money(int m, String type) {
 		this.m=m;
 		this.type=type;
+		
+		
 	}
 
 }
